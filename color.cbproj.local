@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.960,=C:\Users\Василий\Documents\ColorManager-master\algs.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,C:\Users\Василий\Documents\ColorManager-master\algs.h=C:\Users\Василий\Documents\ColorManager-master\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,C:\Users\Василий\Documents\ColorManager-master\algs.h=C:\Users\Василий\Documents\ColorManager-master\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Василий\Desktop\color\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Василий\Desktop\color\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Василий\Desktop\color\color.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,C:\Users\Василий\Documents\ColorManager-master\algs.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Users\Василий\Documents\ColorManager-master\algs.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.278,C:\Users\Василий\Documents\ColorManager-master\brettel.h=C:\Users\Василий\Documents\ColorManager-master\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,C:\Users\Василий\Documents\ColorManager-master\brettel.h=C:\Users\Василий\Documents\ColorManager-master\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,C:\Users\Василий\Documents\ColorManager-master\brettel.h=C:\Users\Василий\Documents\ColorManager-master\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=C:\Users\Василий\Desktop\color\ABOUT.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.369,=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,C:\Users\Василий\Documents\ColorManager-master\brettel.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.697,C:\Users\Василий\Documents\ColorManager-master\brettel.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,C:\Users\Василий\Documents\ColorManager-master\brettel.h=C:\Users\Василий\Documents\ColorManager-master\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,C:\Users\Василий\Documents\ColorManager-master\algs.cpp=C:\Users\Василий\Documents\ColorManager-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Василий\Desktop\color\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,=C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,=C:\Users\Василий\Documents\ColorManager-master\Brettel.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.290,=C:\Users\Василий\Documents\ColorManager-master\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.371,C:\Users\Василий\Desktop\color\Project1PCH1.h=C:\Users\Василий\Desktop\color\colorPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,=C:\Users\Василий\Documents\ColorManager-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,=C:\Users\Василий\Documents\ColorManager-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,=C:\Users\Василий\Documents\ColorManager-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,C:\Users\Василий\Documents\ColorManager-master\brettel.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,C:\Users\Василий\Documents\ColorManager-master\brettel.cpp=C:\Users\Василий\Documents\ColorManager-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,C:\Users\Василий\Documents\ColorManager-master\brettel.cpp=C:\Users\Василий\Documents\ColorManager-master\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.849,C:\Users\Василий\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Василий\Desktop\color\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,=C:\Users\Василий\Documents\ColorManager-master\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Users\Василий\Documents\ColorManager-master\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,=C:\Users\Василий\Documents\ColorManager-master\Bretellib\Win32\Debug\BrettelMain.obj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.145,C:\Users\Василий\Documents\ColorManager-master\Bretellib\Win32\Debug\BrettelMain.obj=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ABOUT.cpp"/>
+    <File Path="ABOUT.cpp"/>
+    <File Path="ABOUT.dfm"/>
+    <File Path="ABOUT.h"/>
+    <File Path="color.cpp"/>
+    <File Path="colorPCH1.h"/>
+    <File Path="main.cpp"/>
+    <File Path="main.cpp"/>
+    <File Path="main.dfm"/>
+    <File Path="main.h"/>
+    <File Path="brettel.cpp"/>
+    <File Path="brettel.cpp"/>
+    <File Path="brettel.h"/>
+    <File Path="algs.cpp"/>
+    <File Path="algs.cpp"/>
+    <File Path="algs.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
